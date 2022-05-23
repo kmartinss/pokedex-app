@@ -80,6 +80,17 @@
 						line-height: 130%;
 					}
 				}
+
+        a {
+          color: var(--primary-color);
+          text-decoration: none;
+          font-size: rem-calc(18);
+          font-weight: 600;
+          background: var(--grey);
+          padding: rem-calc(10);
+          border-radius: rem-calc(20);
+          width: rem-calc(140);
+        }
 			}
 		}
 
