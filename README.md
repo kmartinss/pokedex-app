@@ -7,6 +7,7 @@ No desenvolvimento do código foi explorado conceitos básicos como:
 - Lazy loading;
 - Arquitetura frontend;
 - Configuração de variáveis scss;
+- Uso e aplicação de funções em scss;
 - Responsividade;
 - Consumo de api
 
